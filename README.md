@@ -7,7 +7,7 @@ hackintosh！
 |-|-
 |CPU|Intel 10th CORE 10900k
 |主板|MSI MPG Z490
-|内存|英睿达BLM 8Gx2
+|内存|英睿达BLM 8Gx4
 |显卡|AMD RX6900XT
 |硬盘|SAMSUNG 970EVO PLUS 500GB
 |无线网卡|FV T919
